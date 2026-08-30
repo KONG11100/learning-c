@@ -53,3 +53,17 @@ dkms.conf
 
 # debug information files
 *.dwo
+# 编译产物
+*.o
+*.exe
+a.out
+
+# Xcode
+xcuserdata/
+*.xcworkspace/
+
+# macOS
+.DS_Store
+
+# 数据文件
+*.date
